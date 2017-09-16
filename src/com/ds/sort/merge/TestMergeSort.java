@@ -1,4 +1,4 @@
-package com.sort.merge;
+package com.ds.sort.merge;
 
 public class TestMergeSort {
 
