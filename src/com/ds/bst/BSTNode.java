@@ -1,4 +1,4 @@
-package com.example.bst;
+package com.ds.bst;
 
 public class BSTNode {
 	private int value;
