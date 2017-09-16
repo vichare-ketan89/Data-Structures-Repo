@@ -1,4 +1,4 @@
-package com.linkedlist.single;
+package com.ds.linkedlist.single;
 
 public class SingleLinkedListTest {
 	
